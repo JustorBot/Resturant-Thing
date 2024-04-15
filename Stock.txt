@@ -1,0 +1,12 @@
+Coke,25
+Fanta,25
+Sprite,25
+Garlic Snails,55
+Calamari,70
+Wings,65
+Steak,120
+Chicken,109
+Pork,110
+Ice-cream,56
+Waffle,73
+Cake,45
